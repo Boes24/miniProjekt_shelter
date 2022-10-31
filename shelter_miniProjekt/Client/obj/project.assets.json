@@ -1621,32 +1621,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/christianboes/.nuget/packages/": {}
+    "/Users/rasmusmeldgaardjensen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/shelter_miniProjekt.Client.csproj",
+      "projectUniqueName": "/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/shelter_miniProjekt.Client.csproj",
       "projectName": "shelter_miniProjekt.Client",
-      "projectPath": "/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/shelter_miniProjekt.Client.csproj",
-      "packagesPath": "/Users/christianboes/.nuget/packages/",
-      "outputPath": "/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/obj/",
+      "projectPath": "/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/shelter_miniProjekt.Client.csproj",
+      "packagesPath": "/Users/rasmusmeldgaardjensen/.nuget/packages/",
+      "outputPath": "/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/christianboes/.nuget/NuGet/NuGet.Config"
+        "/Users/rasmusmeldgaardjensen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Shared/shelter_miniProjekt.Shared.csproj": {
-              "projectPath": "/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Shared/shelter_miniProjekt.Shared.csproj"
+            "/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Shared/shelter_miniProjekt.Shared.csproj": {
+              "projectPath": "/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Shared/shelter_miniProjekt.Shared.csproj"
             }
           }
         }
@@ -1682,18 +1683,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[6.0.9, 6.0.9]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

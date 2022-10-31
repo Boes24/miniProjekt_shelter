@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = shelter_miniProjekt.Client
 build_property.RootNamespace = shelter_miniProjekt.Client
-build_property.ProjectDir = /Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/
+build_property.ProjectDir = /Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client
+build_property.MSBuildProjectDirectory = /Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/App.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/Pages/Counter.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/Pages/FetchData.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/Pages/Index.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/Shared/SurveyPrompt.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/_Imports.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/Shared/MainLayout.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-bjl2n13vf9
 
-[/Users/christianboes/Desktop/shelter_miniProjekt/shelter_miniProjekt/Client/Shared/NavMenu.razor]
+[/Users/rasmusmeldgaardjensen/Desktop/skole-project/miniProjekt_shelter/shelter_miniProjekt/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lif8dux2oo
